@@ -1,6 +1,6 @@
 # wolfandprince
 配信者様が作成されたプログラムとなります  
-[Twitch](https://www.twitch.tv/wolfandprince)
+[Twitch](https://www.twitch.tv/wolfandprince)  
 [Twitter](https://twitter.com/RinTakanashi_03)
 
 
