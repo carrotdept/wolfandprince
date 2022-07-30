@@ -8,4 +8,5 @@ https://twitter.com/RinTakanashi_03
 * IDE
   * [Visual Studio Community](https://visualstudio.microsoft.com/ja/free-developer-offers/)
 * 言語
-  * C#
+  * C# (.Net Framework4.7.2) 
+
